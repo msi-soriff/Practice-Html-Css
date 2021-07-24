@@ -1,0 +1,30 @@
+body{
+    font-family: 'Shadows Into Light', cursive;
+    margin: 0;
+}
+.header{
+    font-size: 50px;
+    color: lightcoral;
+    text-align: center;
+    background-image: linear-gradient(yellow,white);
+}
+.tag-line{
+    background-color: lightseagreen;
+    padding: 1%;
+}
+.text-decoration{
+    text-align: justify;
+    color: blueviolet;
+    margin: 5%;
+}
+.flexible-container{
+    display: flex;
+    padding: 5%;
+    margin-left: 16%;
+    margin-bottom: 150px;
+}
+footer p{
+    text-align: center;
+    color: brown;
+    font-size: 20px;
+}
